@@ -1,4 +1,4 @@
-# 🔥 SoldaSur IA Chatbot  
+# SoldaSur IA Chatbot  
 
 **Chatbot inteligente para asesoramiento en sistemas de calefacción**  
 
@@ -6,16 +6,16 @@ Proyecto desarrollado en el marco de **Prácticas Profesionalizantes II – 2° 
 
 ---
 
-## 👥 Equipo 2 – PP2 SOLDASUR 2C 2025  
+## Equipo 2 – PP2 SOLDASUR 2C 2025  
 
 **Integrantes:**
 
-🧑‍💻 Cussi Nicolás  🧑‍💻 Biason Franco  
-👩‍💻 Bolaña Silvia  🧑‍💻 Luna Luciano
+Cussi Nicolás  Biason Franco  
+Bolaña Silvia  Luna Luciano
 
 ---
 
-### 🗓️ Metodología de Trabajo
+### Metodología de Trabajo
 El equipo trabajará bajo una metodología **Àgil (Scrum)**, organizando el desarrollo en **3 sprints** principales.  
 Cada sprint incluirá:
 - **Planificación:** definición de tareas y objetivos.  
@@ -30,7 +30,7 @@ Cada sprint incluirá:
 
 ---
 
-## 🎯 Objetivo del proyecto  
+## Objetivo del proyecto  
 
 Desarrollar un **chatbot basado en IA** que pueda:  
 - Responder consultas frecuentes sobre sistemas de calefacción.  
@@ -40,7 +40,7 @@ Desarrollar un **chatbot basado en IA** que pueda:
 
 ---
 
-## 🧩 Estructura del proyecto  
+## Estructura del proyecto  
 
 
 
