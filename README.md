@@ -3,6 +3,32 @@ soldasur_ia_chatbot
 
 Chatbot inteligente para asesoramiento en sistemas de calefacción
 
+├── data
+│   ├── raw/              <- Datos originales
+│   ├── processed/        <- Datos limpios/listos para usar
+│   └── external/         <- Fuentes externas (API, CSV, etc.)
+│
+├── docs/                 <- Documentación del proyecto
+│
+├── notebooks/            <- Jupyter notebooks exploratorios
+│
+├── src/                  <- Código fuente (modelos, scripts, chatbot)
+│   ├── __init__.py
+│   ├── data/             <- Limpieza, carga y transformación de datos
+│   ├── features/         <- Generación de variables o embeddings
+│   ├── models/           <- Entrenamiento y evaluación
+│   ├── chatbot/          <- Lógica del chatbot (pueden crear esta carpeta)
+│   └── utils/            <- Funciones auxiliares
+│
+├── tests/                <- Pruebas
+│
+├── requirements.txt      <- Dependencias del entorno
+│
+└── README.md             <- Descripción general del proyecto
+
+
+
+
 Project Organization
 ------------
 
