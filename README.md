@@ -1,11 +1,38 @@
-soldasur_ia_chatbot
-==============================
+# 🔥 SoldaSur IA Chatbot  
 
-Chatbot inteligente para asesoramiento en sistemas de calefacción
+**Chatbot inteligente para asesoramiento en sistemas de calefacción**  
+
+Proyecto desarrollado en el marco de **Prácticas Profesionalizantes II – 2° Cuatrimestre 2025**, orientado al diseño de un asistente conversacional capaz de brindar soporte técnico y asesoramiento automatizado a clientes y operarios del sector calefacción.
+
+---
+
+## 👥 Equipo 2 – PP2 SOLDASUR 2C 2025  
+
+**Integrantes:**  
+- 🧑‍💻 **Cussi Nicolás**  
+- 🧑‍💻 **Biason Franco**  
+- 👩‍💻 **Bolaña Silvia**  
+- 🧑‍💻 **Luna Luciano**  
+
+**Links del proyecto:**  
+- 📁 [Carpeta de Google Drive](https://drive.google.com/drive/u/0/folders/1pU7Th3OKQLMJ6IEezuRPtt7Ufv3Yb6Xe)  
+- 📋 [Tablero de Trello](https://trello.com/b/MdxyBFuU/equipo-2-pp2-soldasur-2c-2025)  
+
+---
+
+## 🎯 Objetivo del proyecto  
+
+Desarrollar un **chatbot basado en IA** que pueda:  
+- Responder consultas frecuentes sobre sistemas de calefacción.  
+- Brindar asistencia técnica personalizada.  
+- Sugerir soluciones o recomendaciones según el tipo de instalación o problema reportado.  
+- Integrarse con bases de conocimiento y flujos conversacionales adaptativos.  
+
+---
+
+## 🧩 Estructura del proyecto  
 
 
-Project Organization
-------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
