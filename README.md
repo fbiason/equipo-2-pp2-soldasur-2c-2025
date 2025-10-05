@@ -13,6 +13,16 @@ Proyecto desarrollado en el marco de **Prácticas Profesionalizantes II – 2° 
 🧑‍💻 Cussi Nicolás  🧑‍💻 Biason Franco  
 👩‍💻 Bolaña Silvia  🧑‍💻 Luna Luciano
 
+---
+
+### 🗓️ Metodología de Trabajo
+El equipo trabajará bajo una metodología **Àgil (Scrum)**, organizando el desarrollo en **3 sprints** principales.  
+Cada sprint incluirá:
+- **Planificación:** definición de tareas y objetivos.  
+- **Desarrollo:** ejecución y revisión del avance en Trello y GitHub.  
+- **Cierre:** retrospectiva y entrega de los resultados parciales.
+  
+---
 
 **Links del proyecto:**  
 - 📁 [Google Drive](https://drive.google.com/drive/u/0/folders/1pU7Th3OKQLMJ6IEezuRPtt7Ufv3Yb6Xe)  
