@@ -15,7 +15,7 @@ Proyecto desarrollado en el marco de **Prácticas Profesionalizantes II – 2° 
 - 🧑‍💻 **Luna Luciano**  
 
 **Links del proyecto:**  
-- 📁 [Carpeta de Google Drive](https://drive.google.com/drive/u/0/folders/1pU7Th3OKQLMJ6IEezuRPtt7Ufv3Yb6Xe)  
+- 📁 [Google Drive](https://drive.google.com/drive/u/0/folders/1pU7Th3OKQLMJ6IEezuRPtt7Ufv3Yb6Xe)  
 - 📋 [Tablero de Trello](https://trello.com/b/MdxyBFuU/equipo-2-pp2-soldasur-2c-2025)  
 
 ---
