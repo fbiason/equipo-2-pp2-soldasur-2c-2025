@@ -8,11 +8,11 @@ Proyecto desarrollado en el marco de **Prácticas Profesionalizantes II – 2° 
 
 ## 👥 Equipo 2 – PP2 SOLDASUR 2C 2025  
 
-**Integrantes:**  
-- 🧑‍💻 **Cussi Nicolás**  
-- 🧑‍💻 **Biason Franco**  
-- 👩‍💻 **Bolaña Silvia**  
-- 🧑‍💻 **Luna Luciano**  
+**Integrantes:**
+
+🧑‍💻 Cussi Nicolás  🧑‍💻 Biason Franco  
+👩‍💻 Bolaña Silvia  🧑‍💻 Luna Luciano
+
 
 **Links del proyecto:**  
 - 📁 [Google Drive](https://drive.google.com/drive/u/0/folders/1pU7Th3OKQLMJ6IEezuRPtt7Ufv3Yb6Xe)  
